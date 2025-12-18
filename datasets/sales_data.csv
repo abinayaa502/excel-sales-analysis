@@ -1,0 +1,16 @@
+OrderID,Product,Category,Customer,Region,Quantity,Unit Price,Sales Amount,Order Date
+1001,Smartphone,Electronics,Arun Kumar,South,2,15000,30000,2023-01-10
+1002,Headphones,Electronics,Priya R,North,4,2000,8000,2023-01-15
+1003,Laptop,Electronics,Rahul,East,1,55000,55000,2023-01-18
+1004,T-Shirt,Clothing,Sneha,West,6,500,3000,2023-02-02
+1005,Shoes,Clothing,Arun Kumar,South,2,2500,5000,2023-02-05
+1006,Microwave,Home Appliances,Geetha,North,1,12000,12000,2023-02-10
+1007,Smartwatch,Electronics,Deepak,South,3,7000,21000,2023-02-15
+1008,Washing Machine,Home Appliances,Ravi Kumar,West,1,30000,30000,2023-03-01
+1009,Jeans,Clothing,Sneha,East,4,1200,4800,2023-03-05
+1010,TV,Electronics,Deepak,South,1,40000,40000,2023-03-10
+1011,Blender,Home Appliances,Geetha,North,2,3500,7000,2023-04-01
+1012,Refrigerator,Home Appliances,Arun Kumar,West,1,50000,50000,2023-04-15
+1013,Shoes,Clothing,Geetha,North,5,2500,12500,2023-05-01
+1014,T-Shirt,Clothing,Rahul,East,10,500,5000,2023-05-09
+1015,Headphones,Electronics,Priya R,North,3,2000,6000,2023-05-15
